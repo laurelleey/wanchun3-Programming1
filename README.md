@@ -1,3 +1,3 @@
 # CS415InfiniteMatrix
- Programming 1 
- Download the zip and open the InfiniteMatrix to run
+This is Programming 1. 
+Download the zip and open the InfiniteMatrix.uproject to run
